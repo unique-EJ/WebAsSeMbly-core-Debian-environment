@@ -1,3 +1,3 @@
-# WebAsSeMbly core Debian environment
+# WebAsSeMbly - core Debian environment
 
-Porting a core Debian system, installed into a subdirectory in a virtual filesystem, with Emscripten compiling the Cdebootstrap, chroot and other tools to Web-Assembly system code - inside GitLab CI/CD.
+Porting a core Debian system, installed into a sub-directory in a virtual filesystem, with Emscripten build tools to compile the Cdebootstrap, chroot and other tools to Web-Assembly system code - inside GitLab CI/CD.
