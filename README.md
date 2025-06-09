@@ -1,7 +1,10 @@
 # EXPERIMENT -- Open Source Web-based hybrid home screen
-maybe with Emscripten-compiled Web-Assembly code  
-and **developed by using a directly Native Script** (_NativeScript_) **to plug-in web technology** (_JavaScript_)  
-**to the device platform application interface without a bridge between the native platform code to Web-View rendering**.
+**with an AAC (Web) application container feature to display communication help websites from the lock screen when locked**  
+**by a way of a simple WebView-based wrapper app activity which shows a single website on top of the lock screen when launched from it.**
+
+Hybrid home screen function: maybe with Emscripten-compiled Web-Assembly code - and  
+**developed by using a native script directly** (_NativeScript_) **to plug-in web technology** (_JavaScript_) to the device platform  
+application interface _without a bridge between the native platform code to Web-View rendering_ (_hybrid app_ "abstraction frameworks").
 
 ## Description
 
